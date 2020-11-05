@@ -1,4 +1,4 @@
-# QR CODE ATTENDANCE SYSTEM
+# ATTENDANCE SYSTEM
 #### Attendance Management System
 + REST-API
 + Offline Attendance Facility in App ( attendance can be taken even when offline).
