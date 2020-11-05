@@ -4,6 +4,6 @@
 + Offline Attendance Facility in App ( attendance can be taken even when offline).
 ___
 
-####Installation for Server
+#### Installation for Server
 + COMING SOON
 
